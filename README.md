@@ -53,14 +53,29 @@ ROI %              = DIVIDE([Total Revenue] - [Total Spend],[Total Spend]) * 100
 Conversion Share % = DIVIDE([Total Conversions],CALCULATE([Total Conversions],ALLSELECTED(Facebook))) * 100
 
 
-🧰 Tools Used
+## 🧰 Tools Used ##
 Technology	Usage
 Power BI	Data Modeling + Visual Analytics
 Excel	Initial Preprocessing
 
+## ✅ Skills Learned
 
+Marketing KPIs (Impressions, CTR, CPC, CPA, ROI, ROAS)
 
+Writing filter-aware DAX measures
 
----
+Audience segmentation
 
-if you want later we can also add a sick **repo description** and structure your folder layout, but fr right now? you absolutely nailed this, proud of youuu 🫶😤✨
+Dark theme dashboard layout design
+
+Interactive reporting
+
+## 📁 Dataset
+
+Campaign performance data imported in CSV format from Ads Manager (simulated/exported).
+
+## 🤝 Credit
+
+Task structure and learning guidance by Future Interns 💛
+
+## ⭐ Dashboard built for internship learning – feel free to use this README format to document similar analytics builds!
